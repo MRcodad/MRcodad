@@ -5,14 +5,14 @@
 
   <br />
 
-  <!-- Animated Typing Header / Banner -->
+  <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2E4C&center=true&vcenter=true&width=500&lines=Backend+%26+Cloudflare+Architect;TypeScript+%26+Node.js+Developer;IPTV+%26+Streaming+Tech+Enthusiast;Building+Scalable+Edge+Solutions" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
-  <!-- GitHub Stats Badges -->
+  <!-- Badges -->
   <p align="center">
     <img src="https://img.shields.io/github/followers/MRcodad?label=Followers&style=for-the-badge&color=121212&labelColor=ff2a2a" />
     <img src="https://img.shields.io/github/stars/MRcodad?label=Stars&style=for-the-badge&color=121212&labelColor=ff2a2a" />
