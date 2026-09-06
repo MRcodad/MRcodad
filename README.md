@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>⚡ Hi, I'm <span style="color: #ff2a2a;">M code</span> ⚡</h1>
+  <h1>⚡ Hi, I'm <span style="color: #ff2a2a;">MR codad</span> ⚡</h1>
   <p><i>"Building distributed backends, edge apps & streaming platforms in the shadows."</i></p>
 
   <br />
