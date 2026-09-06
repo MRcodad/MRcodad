@@ -34,12 +34,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Activity & Stats
 
 <div align="center">
   <br />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MRcodad&show_icons=true&theme=dark&hide_border=true&title_color=ff2a2a&icon_color=ff2a2a&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRcodad&layout=compact&theme=dark&hide_border=true&title_color=ff2a2a&bg_color=0d1117" />
+  <!-- Stable GitHub Streak / Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRcodad&theme=dark&background=0d1117&border=ff2a2a&stroke=ff2a2a&ring=ff2a2a&fire=ff2a2a&currStreakNum=ff2a2a&sideNums=ff2a2a&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
