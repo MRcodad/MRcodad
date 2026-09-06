@@ -22,13 +22,29 @@
 
 ---
 
-### 🖤 About Me
+### 🛠️ Tech Stack & Skills
 
-```javascript
-const developer = {
-    alias: "M code",
-    role: "Backend & Systems Developer",
-    stack: ["Node.js", "Cloudflare Workers", "TypeScript", "D1 / SQLite"],
-    currentFocus: "High-performance edge APIs & dynamic media apps",
-    motto: "Clean code, minimal latency, dark mode always."
-};
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <br />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MRcodad&show_icons=true&theme=dark&hide_border=true&title_color=ff2a2a&icon_color=ff2a2a&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRcodad&layout=compact&theme=dark&hide_border=true&title_color=ff2a2a&bg_color=0d1117" />
+</div>
+
+---
+
+<div align="center">
+  <p>👁️ Profile Views</p>
+  <img src="https://komarev.com/ghpvc/?username=MRcodad&color=ff2a2a&style=flat-square&label=Profile+Views" />
+</div>
